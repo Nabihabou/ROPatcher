@@ -1,2 +1,2 @@
-1 att.thor
-2 status.thor
+1 att1.thor
+2 status1.thor
