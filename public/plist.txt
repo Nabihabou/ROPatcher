@@ -10,3 +10,4 @@
 10 2020-02-06status2.thor
 11 2020-02-06twofilestest.thor
 12 2020-02-06twofiletest2.thor
+13 2020-02-06twofiletest3.thor
