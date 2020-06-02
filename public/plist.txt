@@ -6,3 +6,5 @@
 6 status3.thor
 7 2020-02-06launcher.thor
 8 2020-02-06status.thor
+9 2020-02-06launcher2.thor
+10 2020-02-06status2.thor
