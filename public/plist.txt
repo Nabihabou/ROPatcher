@@ -15,3 +15,4 @@
 15 2020-04-06launcher.thor
 16 launcherFonts.thor
 17 2020-04-06launcher2.thor
+18 2020-04-06plistFix.thor
