@@ -1,1 +1,2 @@
 1 test1.thor
+2 newProntera.thor
