@@ -1,3 +1,5 @@
 1 test1.thor
 2 newProntera.thor
 3 patch0-1.thor
+4 huntingPotions.thor
+5 huntingPotionsPatch.thor
